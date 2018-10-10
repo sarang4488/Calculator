@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 16px 20px;
+  border-radius: 35px;
+  font-size: 24px;
+  line-height: 1.33;
+}
+.btn-circle.btn-cl {
+  width: 209px;
+  height: 70px;
+  padding: 10px 16px;
+  border-radius: 35px;
+  font-size: 24px;
+  line-height: 1.33;
+}
+.btn-circle.btn-z {
+  width: 140px;
+  height: 70px;
+  padding: 10px 16px;
+  border-radius: 35px;
+  font-size: 24px;
+  line-height: 1.33;
+}
+.card-size {
+  width: 450px;
+  background-color: #222222;
+  color: black;
+  /*position: sticky;*/
+  /*left: 500px;*/
+  /*top: 250px;*/
+}
